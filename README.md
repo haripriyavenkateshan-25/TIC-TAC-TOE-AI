@@ -129,17 +129,6 @@ http://127.0.0.1:5500
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after running the project.
-
-### Home Screen
-
-![Home Screen](screenshots/home.png)
-
-### Gameplay
-
-![Gameplay](screenshots/gameplay.png)
 
 ---
 
